@@ -1,6 +1,34 @@
-Per organitzar-nos cadascun treballarà sobre un apartat de la web.
-Tindrem una pàgina principal que serà la portada, i  a part tindrem una pàgina de menú, un altre d'about us, i tres més per a cada component del grup.
-Tot això recollit en un menú que enllacarem per poder accedir a les altres pàgines.
-Com la nostra pàgina es basarà en un restaurant de pizzes, tindrem una branca per a la documentació, un altre per desenvolupar el codi, una per a desenvolupar cada pàgina que faci cadascun.
-La idea és que en finalitzar el dia tots els membres de l'equip puguin tot el treball del dia al repositori remot i una vegada realitzat, cadascun baixi del repositori remot tot el que hi hagui per 
-així la pròxima sessió poder començar sense haver-nos de preocupar.  
+To organize the project, every member will be responsible for their own page on the web. The website will have the following pages:
+
+1. Home --> The landing page with the navbar, banner, logo, button, etc.
+2. Menu --> A simple page with an image of the pizzeria's menu, banner, navbar, button.
+3. About Us --> A page where we showcase our team, a picture, social media icons, maps location.
+4. Our Team --> 3 Individual pages, one for each member with a portrait shot, name, occupation, description and social media.
+
+SITEMAP
+--------
+Home
+ |__ Menu
+ |__ About Us
+ |__ Our Team
+ |    |__ MarcRamilo
+ |    |__BilalBoulouban
+ |    |__MarcRoma
+ |
+ |__ Order
+
+PROJECT BRANCHES
+------------------
+main
+documentation
+
+WEBSITE BRANCHES FOR EACH PAGE/SUBPAGE
+----------------------------------------
+home
+menu
+about us
+our team (personal pages)
+
+marcramilo(1)
+bilalboulouban(2)
+marcroma(3)
