@@ -4,6 +4,8 @@ Our group is formed by:
 -Marc Ramilo Garrido
 -Bilal Boulouban Bargou
 
+--------------------------------
+
 In this project, our goal is to develop a corporate website using the version control system and a remote repository on GitHub.
 Our website will be a restaurant site.
 Every member of our group will be responsible for their own branch and files/pages.
