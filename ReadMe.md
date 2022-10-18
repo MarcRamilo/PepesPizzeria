@@ -1,15 +1,13 @@
-Benvingut/da!
-Aquest projecte està realitzat pel grup format per:
+Welcome!
+Our group is formed by:
 -Marc Roma Lara
 -Marc Ramilo Garrido
 -Bilal Boulouban Bargou
 
-En aquest projecte la idea es treballar i desenvolupar una pàgina corporativa fent servir els sistema
-de control de versions juntament amb el repositori remot GitHub.
-La idea pirncipal és realitzar una web d'un restaurant, on cada memebre del equip treballara en branques 
-diferents i en pàgines diferents.
+In this project, our goal is to develop a corporate website using the version control system and a remote repository on GitHub.
+Our website will be a restaurant site.
+Every member of our group will be responsible for their own branch and files/pages.
 
-La idea es que al principi de cada essió es fagi un pull per tenir actualitzat els fitxers, i al final de cadascuna fer un 
-push al repo remot per tenir-ho per a la seguent sessió.
+At the beginning of every session, every member will PULL from the remote repository so that files are updated and ready to work. And at the end of every session, every member will PUSH their changes to the repository (if necessary) so everything is ready for the next session.
 
-Al final la idea es fer un merge per conlcuir amb el projecte final.
+Finally, all the branches will merge back to the main one, making way for the final project which will be uploaded as instructed.
