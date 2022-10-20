@@ -1,0 +1,101 @@
+* {
+	font-family: 'Arvo', serif;
+	
+}
+nav {
+	left:80px;
+	margin: 20px ;
+	margin-left: 650px;
+	font-family: 'Arvo', serif;
+	position:absolute;
+	width: 450px;
+	height: 50px;
+	border-radius: 8px;
+	font-size: 0;
+	
+}
+nav a {
+
+	height: 100%;
+	font-size: 15px;
+	margin-top: -50px;
+	display: inline-block;
+	position: relative;
+	z-index: 1;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: center;
+	color: black;
+	cursor: pointer;
+}
+nav .animation {
+	line-height: 150px;
+	position: absolute;
+	height: 100%;
+	top: 0;
+	z-index: 0;
+	transition: all .5s ease 0s;
+	border-radius: 8px;
+}
+nav a.active {
+	line-height: 50px;
+	width: 100px;
+	left: 0;
+	background-color: #e74c3c;
+	border-radius: 8px;
+  }
+a:nth-child(1) {
+	width: 100px;
+	line-height: 150px;
+}
+a:nth-child(2) {
+	width: 110px;
+	line-height: 150px;
+}
+a:nth-child(3) {
+	width: 100px;
+	line-height: 150px;
+}
+a:nth-child(4) {
+	width: 100px;
+	line-height: 150px;
+}
+a:nth-child(5) {
+	width: 120px;
+	line-height: 150px;
+}
+nav .start-home, a:nth-child(1):hover~.animation {
+	width: 100px;
+	left: 0;
+	background-color: #e74c3c;
+}
+nav .start-about, a:nth-child(2):hover~.animation {
+	width: 110px;
+	left: 100px;
+	background-color: #e74c3c;
+}
+nav .start-blog, a:nth-child(3):hover~.animation {
+	width: 100px;
+	left: 210px;
+	background-color: #e74c3c;
+}
+nav .start-portefolio, a:nth-child(4):hover~.animation {
+	width: 90px;
+	left: 320px;
+	background-color: #e74c3c;
+}
+
+body {
+	font-size: 12px;
+	font-family: sans-serif;
+	background: #ffffff;
+}
+h1 {
+	text-align: center;
+	margin: 40px 0 40px;
+	text-align: center;
+	font-size: 30px;
+	color: black;
+	text-shadow: 2px 2px 4px #000000;
+	font-family: 'Arvo', serif;
+}
