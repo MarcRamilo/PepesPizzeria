@@ -1,0 +1,6 @@
+Per organitzar-nos cadascun treballarà sobre un apartat de la web.
+Tindrem una pàgina principal que serà la portada, i  a part tindrem una pàgina de menú, un altre d'about us, i tres més per a cada component del grup.
+Tot això recollit en un menú que enllacarem per poder accedir a les altres pàgines.
+Com la nostra pàgina es basarà en un restaurant de pizzes, tindrem una branca per a la documentació, un altre per desenvolupar el codi, una per a desenvolupar cada pàgina que faci cadascun.
+La idea és que en finalitzar el dia tots els membres de l'equip puguin tot el treball del dia al repositori remot i una vegada realitzat, cadascun baixi del repositori remot tot el que hi hagui per 
+així la pròxima sessió poder començar sense haver-nos de preocupar.  
