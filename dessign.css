@@ -31,7 +31,7 @@ footer{
     line-height: 28px;
     font-size: 14px;
 	margin-top: 20px;
-    color: #cacdd2;
+    color: #ffffff;
 }
 .socials{
     list-style: none;
@@ -66,7 +66,7 @@ footer{
 }
 
 .footer-bottom{
-    background: #f02d18;;
+    background: #e74c3c;;
     width: 100vw;
   
     text-align: center;
@@ -97,7 +97,7 @@ display: block;
 }
 .footer-menu ul li a{
 	margin-top: 20px;
-  color: #cfd2d6;
+  color: #ffffff;
   text-decoration: none;
 }
 .footer-menu ul li a:hover{
@@ -237,5 +237,12 @@ p {
     color: black;
 	font-family: 'Arvo', serif;
     font-size: 16px;
+}
+
+.icons
+{
+	margin-top: -100px;
+	font-size: 50px;
+	color: #333333;
 }
 
