@@ -2,7 +2,7 @@ Benvingut/da!
 Aquest projecte està realitzat pel grup format per:
 -Marc Roma Lara
 -Marc Ramilo Garrido
--Bilal Boulouban Bargou
+-Bilal
 
 En aquest projecte la idea es treballar i desenvolupar una pàgina corporativa fent servir els sistema
 de control de versions juntament amb el repositori remot GitHub.
